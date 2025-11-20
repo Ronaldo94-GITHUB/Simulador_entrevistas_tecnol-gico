@@ -1,0 +1,55 @@
+EXEMPLOS DE RESPOSTAS
+
+1. TÍTULO
+Pergunta: "Qual é o título da vaga e qual o propósito principal desse cargo?"
+Resposta: "A vaga é para Cientista de Dados Júnior. O propósito é apoiar a equipe na coleta, limpeza e análise inicial de dados, ajudando a gerar relatórios e insights para o negócio."
+
+---
+
+2. SENIORIDADE
+Pergunta: "Qual a senioridade esperada e por quê?"
+Resposta: "Estamos buscando alguém em nível Júnior, pois a ideia é formar o profissional dentro da cultura da empresa. Ele terá acompanhamento de colegas mais experientes para evoluir em projetos complexos."
+
+---
+
+3. STACK
+Pergunta: "Quais tecnologias, frameworks e práticas são essenciais?"
+Resposta: "Python básico, SQL para consultas, bibliotecas como Pandas e NumPy, além de ferramentas de visualização como Power BI ou Tableau. É importante também ter noções de boas práticas de documentação."
+
+---
+
+4. SOFT SKILLS
+Pergunta: "Quais comportamentos ou atitudes são mais valorizados?"
+Resposta: "Valorizamos curiosidade, comunicação clara, atenção aos detalhes e vontade de aprender. O candidato precisa estar aberto a feedback e colaborar bem com a equipe."
+
+---
+
+EXEMPLO 2 — Engenheiro de Machine Learning Júnior
+
+1. TÍTULO
+Resposta: "Engenheiro de Machine Learning Júnior. O propósito é apoiar no desenvolvimento e manutenção de modelos de ML."
+
+2. SENIORIDADE
+Resposta: "Nível Júnior, pois buscamos alguém em início de carreira que possa aprender práticas de MLOps com orientação."
+
+3. STACK
+Resposta: "Python, Scikit-learn, TensorFlow básico, SQL e Git/GitHub."
+
+4. SOFT SKILLS
+Resposta: "Proatividade, colaboração, comunicação sobre dificuldades e resiliência."
+
+---
+
+EXEMPLO 3 — Analista de Business Intelligence Júnior
+
+1. TÍTULO
+Resposta: "Analista de BI Júnior. O propósito é apoiar na criação de dashboards e relatórios estratégicos."
+
+2. SENIORIDADE
+Resposta: "Nível Júnior, para aprender ferramentas de BI e evoluir em projetos de análise."
+
+3. STACK
+Resposta: "Power BI, SQL básico, Excel avançado e noções de ETL."
+
+4. SOFT SKILLS
+Resposta: "Boa comunicação, organização, curiosidade e colaboração com equipes de negócio."
